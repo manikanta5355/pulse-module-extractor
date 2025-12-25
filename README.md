@@ -68,7 +68,8 @@ such as embeddings or LLMs to improve topic grouping and description quality.
 
 pip install -r requirements.txt
 
-python module\_extractor.py https://wordpress.org/documentation/
+python module_extractor.py https://wordpress.org/documentation/
+
 
 
 
