@@ -1,0 +1,11 @@
+[
+  {
+    "module": "Featured Articles",
+    "Description": "This module covers documentation related to Featured Articles.",
+    "Submodules": {
+      "Popular Resources": "This submodule explains functionality related to Popular Resources.",
+      "Recently Added": "This submodule explains functionality related to Recently Added.",
+      "Still have questions?": "This submodule explains functionality related to Still have questions?."
+    }
+  }
+]

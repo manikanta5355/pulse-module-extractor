@@ -1,0 +1,48 @@
+[
+  {
+    "module": "WordPress overview",
+    "Description": "Information related to WordPress overview",
+    "Submodules": {
+      "Where to start?": "Details about Where to start?",
+      "FAQs": "Details about FAQs",
+      "About WordPress": "Details about About WordPress"
+    }
+  },
+  {
+    "module": "Technical guides",
+    "Description": "Information related to Technical guides",
+    "Submodules": {
+      "Installation": "Details about Installation",
+      "Maintenance": "Details about Maintenance",
+      "Security": "Details about Security"
+    }
+  },
+  {
+    "module": "Support guides",
+    "Description": "Information related to Support guides",
+    "Submodules": {
+      "Dashboard": "Details about Dashboard",
+      "Publishing": "Details about Publishing",
+      "Media": "Details about Media"
+    }
+  },
+  {
+    "module": "Customization",
+    "Description": "Information related to Customization",
+    "Submodules": {
+      "Appearance": "Details about Appearance",
+      "Default themes": "Details about Default themes",
+      "Media Blocks": "Details about Media Blocks",
+      "Text Blocks": "Details about Text Blocks",
+      "Design Blocks": "Details about Design Blocks",
+      "Embed Blocks": "Details about Embed Blocks",
+      "Widget Blocks": "Details about Widget Blocks",
+      "Theme Blocks": "Details about Theme Blocks"
+    }
+  },
+  {
+    "module": "Get more help",
+    "Description": "Information related to Get more help",
+    "Submodules": {}
+  }
+]
