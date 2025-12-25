@@ -61,6 +61,12 @@ the same pipeline can be enhanced using AI-based semantic inference techniques
 such as embeddings or LLMs to improve topic grouping and description quality.
 
 
+## 📹 Video Explanation
+A short video explaining the approach, design, and working of this project.
+
+▶️ **Google Drive Link:**  
+https://drive.google.com/drive/folders/1h_uufkw1vIH0A5uM7Iv57fW9m2ryjY2o?usp=drive_link
+
 
 \## How to Run
 
@@ -69,6 +75,7 @@ such as embeddings or LLMs to improve topic grouping and description quality.
 pip install -r requirements.txt
 
 python module_extractor.py https://wordpress.org/documentation/
+
 
 
 
